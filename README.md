@@ -10,7 +10,7 @@ This is a simple console-based phonebook management system implemented in C++. I
 - **Delete Record**: Remove a specific phonebook record by its serial number.
 - **Modify Record**: Update the details of an existing phonebook record.
 
-![Screenshot](Images/1.png)
+![Screenshot](1.png)
 
 
 ## How to Use
@@ -32,7 +32,7 @@ This is a simple console-based phonebook management system implemented in C++. I
     ```bash
     ./a
     ```
-![Screenshot](Phonebook Management System - CPP-project/Images/2.png)
+![Screenshot](2.png)
 
 4. Follow the on-screen instructions to navigate through the menu and perform various operations.
 
@@ -49,5 +49,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 - Mention any libraries or resources used in the project.
 - Inspiration, etc.
 
-![Screenshot](Phonebook Management System - CPP-project/Images/3.png)
-![Screenshot](Phonebook Management System - CPP-project/Images/4.png)
+![Screenshot](3.png)
+![Screenshot](4.png)
