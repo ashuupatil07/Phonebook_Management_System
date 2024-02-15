@@ -10,7 +10,8 @@ This is a simple console-based phonebook management system implemented in C++. I
 - **Delete Record**: Remove a specific phonebook record by its serial number.
 - **Modify Record**: Update the details of an existing phonebook record.
 
-![Screenshot](1.png)
+![Screenshot](Images/1.png)
+
 
 ## How to Use
 
